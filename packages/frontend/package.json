@@ -1,12 +1,12 @@
 {
   "name": "frontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "parcel index.html -p 3000"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
-    "types": "1.0.0"
+    "types": "^1.0.1"
   }
 }
