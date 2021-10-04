@@ -1,0 +1,11 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/uuid": "^8.3.1"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
