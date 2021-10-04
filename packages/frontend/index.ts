@@ -7,4 +7,6 @@ const user: User = {
   points: 10012,
 };
 
+const abc = {};
+
 console.log(user);

@@ -3,7 +3,9 @@
   "version": "1.1.0",
   "private": true,
   "scripts": {
-    "dev": "ts-node-dev index.ts"
+    "dev": "ts-node-dev index.ts",
+    "lint": "eslint . --ext ts",
+    "tsc": "tsc --pretty --noEmit"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
